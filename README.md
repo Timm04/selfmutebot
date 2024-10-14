@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ### 6. Run the Bot
 To start the bot, run the following command:
 ```
-python launch_bot.py
+python launch_mute_bot.py
 ```
 ### 7. Change the Constant Values.
 Change the `guild_id` to your discord server in cogs/jsons/settings.json.
