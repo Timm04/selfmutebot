@@ -11,7 +11,7 @@ Powerful features that it provides:
 
 ## Usage Guide
 
-By typing '/' into any discord chat, you will open up the discord slash command menu which will show you all the bots the server has. Now by clicking on the Selfmute Bot in that menu, you will be presented with all the commands you can use to track and manage your immersion!
+By typing '/' into any discord chat, you will open up the discord slash command menu which will show you all the bots the server has. Now by clicking on the Selfmute Bot in that menu, you will be presented with all the commands you can use to selfmute yourself or check your remaining mute time.
 
 `/selfmute [hours] [minutes] [seconds]`
 
